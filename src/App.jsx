@@ -1,5 +1,5 @@
 import './App.css'
-import Header from './header';
+import Header from './Header';
 import Section from './Section';
 import Service from './Service';
 import Protfolio from './Protfolio';
